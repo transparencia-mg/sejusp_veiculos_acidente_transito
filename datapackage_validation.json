@@ -1,11 +1,10 @@
 {
   "version": "4.16.6",
-  "time": 99.838,
+  "time": 98.213,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -40,7 +39,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2012",
         "stats": {
           "hash": "8a755925945163c240ad7d0c2d782819",
           "bytes": 17522040,
@@ -48,7 +47,7 @@
           "rows": 479199
         }
       },
-      "time": 7.013,
+      "time": 6.917,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -78,7 +77,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -113,7 +111,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2013",
         "stats": {
           "hash": "a2920427f3cd5c32e2008fe1ca03c1e0",
           "bytes": 18003795,
@@ -121,7 +119,7 @@
           "rows": 491751
         }
       },
-      "time": 7.149,
+      "time": 7.081,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -151,7 +149,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -186,7 +183,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2014",
         "stats": {
           "hash": "205df4ad1e2c1036b17803e5de74c9c6",
           "bytes": 18346941,
@@ -194,7 +191,7 @@
           "rows": 499754
         }
       },
-      "time": 7.203,
+      "time": 7.175,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -224,7 +221,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -259,7 +255,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2015",
         "stats": {
           "hash": "7155f3ab09b69e95a80145d5ade7ea21",
           "bytes": 17271977,
@@ -267,7 +263,7 @@
           "rows": 470270
         }
       },
-      "time": 6.814,
+      "time": 6.713,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -297,7 +293,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -332,7 +327,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2016",
         "stats": {
           "hash": "067c98d57ccc23662ac06f8f4eeaa9b4",
           "bytes": 16179755,
@@ -340,7 +335,7 @@
           "rows": 440351
         }
       },
-      "time": 6.343,
+      "time": 6.24,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -370,7 +365,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -405,7 +399,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2017",
         "stats": {
           "hash": "7a49000a8f951585278a488d5346b100",
           "bytes": 16678827,
@@ -413,7 +407,7 @@
           "rows": 453861
         }
       },
-      "time": 6.517,
+      "time": 6.419,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -443,7 +437,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -478,7 +471,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2018",
         "stats": {
           "hash": "6ea22e2b8414a82b22bf96d0678d0dda",
           "bytes": 16229985,
@@ -486,7 +479,7 @@
           "rows": 441544
         }
       },
-      "time": 6.354,
+      "time": 6.227,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -516,7 +509,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -551,7 +543,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2019",
         "stats": {
           "hash": "0421384158c836ccef4b178fed83f01f",
           "bytes": 17322826,
@@ -559,7 +551,7 @@
           "rows": 471326
         }
       },
-      "time": 6.846,
+      "time": 6.736,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -589,7 +581,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -624,7 +615,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2020",
         "stats": {
           "hash": "d83f526ba1af36b4ef7512407be3773c",
           "bytes": 14409086,
@@ -632,7 +623,7 @@
           "rows": 390974
         }
       },
-      "time": 5.703,
+      "time": 5.558,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -662,7 +653,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -697,7 +687,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2021",
         "stats": {
           "hash": "1748bdc14b236cba32617511e28f24c9",
           "bytes": 15222236,
@@ -705,7 +695,7 @@
           "rows": 413015
         }
       },
-      "time": 6.016,
+      "time": 5.852,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -735,7 +725,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -770,7 +759,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2022",
         "stats": {
           "hash": "eabf95b2e7ce2cd9828a2eeb5f6d735f",
           "bytes": 16407250,
@@ -778,7 +767,7 @@
           "rows": 443101
         }
       },
-      "time": 6.432,
+      "time": 6.302,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -808,7 +797,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -843,7 +831,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2023",
         "stats": {
           "hash": "8309ecc84a335a58e71a7525805ddcc6",
           "bytes": 18123443,
@@ -851,7 +839,7 @@
           "rows": 488435
         }
       },
-      "time": 7.038,
+      "time": 6.903,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -881,7 +869,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -916,7 +903,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2024",
         "stats": {
           "hash": "1efc5f5829b716014827a2d0726c160e",
           "bytes": 19417401,
@@ -924,7 +911,7 @@
           "rows": 523342
         }
       },
-      "time": 7.56,
+      "time": 7.411,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -954,7 +941,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -989,7 +975,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2025",
         "stats": {
           "hash": "1e0833d4067347ed86e6b35ddaae78f2",
           "bytes": 20437051,
@@ -997,7 +983,7 @@
           "rows": 551161
         }
       },
-      "time": 8.006,
+      "time": 7.888,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -1027,7 +1013,6 @@
     },
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
         "dialect": {
           "delimiter": ";"
         },
@@ -1062,7 +1047,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Veículos Acidentes de Trânsito 2026",
         "stats": {
           "hash": "77d4d86eda5f0564576ef771c96093dc",
           "bytes": 12033582,
@@ -1070,7 +1055,7 @@
           "rows": 326815
         }
       },
-      "time": 4.729,
+      "time": 4.674,
       "scope": [
         "hash-count-error",
         "byte-count-error",
