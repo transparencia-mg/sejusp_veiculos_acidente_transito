@@ -1,0 +1,1107 @@
+{
+  "version": "4.16.6",
+  "time": 99.838,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2012",
+        "path": "data/veiculos_acidentes_transito_2012.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "8a755925945163c240ad7d0c2d782819",
+          "bytes": 17522040,
+          "fields": 5,
+          "rows": 479199
+        }
+      },
+      "time": 7.013,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2013",
+        "path": "data/veiculos_acidentes_transito_2013.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "a2920427f3cd5c32e2008fe1ca03c1e0",
+          "bytes": 18003795,
+          "fields": 5,
+          "rows": 491751
+        }
+      },
+      "time": 7.149,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2014",
+        "path": "data/veiculos_acidentes_transito_2014.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "205df4ad1e2c1036b17803e5de74c9c6",
+          "bytes": 18346941,
+          "fields": 5,
+          "rows": 499754
+        }
+      },
+      "time": 7.203,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2015",
+        "path": "data/veiculos_acidentes_transito_2015.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "7155f3ab09b69e95a80145d5ade7ea21",
+          "bytes": 17271977,
+          "fields": 5,
+          "rows": 470270
+        }
+      },
+      "time": 6.814,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2016",
+        "path": "data/veiculos_acidentes_transito_2016.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "067c98d57ccc23662ac06f8f4eeaa9b4",
+          "bytes": 16179755,
+          "fields": 5,
+          "rows": 440351
+        }
+      },
+      "time": 6.343,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2017",
+        "path": "data/veiculos_acidentes_transito_2017.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "7a49000a8f951585278a488d5346b100",
+          "bytes": 16678827,
+          "fields": 5,
+          "rows": 453861
+        }
+      },
+      "time": 6.517,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2018",
+        "path": "data/veiculos_acidentes_transito_2018.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "6ea22e2b8414a82b22bf96d0678d0dda",
+          "bytes": 16229985,
+          "fields": 5,
+          "rows": 441544
+        }
+      },
+      "time": 6.354,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2019",
+        "path": "data/veiculos_acidentes_transito_2019.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "0421384158c836ccef4b178fed83f01f",
+          "bytes": 17322826,
+          "fields": 5,
+          "rows": 471326
+        }
+      },
+      "time": 6.846,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2020",
+        "path": "data/veiculos_acidentes_transito_2020.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "d83f526ba1af36b4ef7512407be3773c",
+          "bytes": 14409086,
+          "fields": 5,
+          "rows": 390974
+        }
+      },
+      "time": 5.703,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2021",
+        "path": "data/veiculos_acidentes_transito_2021.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1748bdc14b236cba32617511e28f24c9",
+          "bytes": 15222236,
+          "fields": 5,
+          "rows": 413015
+        }
+      },
+      "time": 6.016,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2022",
+        "path": "data/veiculos_acidentes_transito_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "eabf95b2e7ce2cd9828a2eeb5f6d735f",
+          "bytes": 16407250,
+          "fields": 5,
+          "rows": 443101
+        }
+      },
+      "time": 6.432,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2023",
+        "path": "data/veiculos_acidentes_transito_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "8309ecc84a335a58e71a7525805ddcc6",
+          "bytes": 18123443,
+          "fields": 5,
+          "rows": 488435
+        }
+      },
+      "time": 7.038,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2024",
+        "path": "data/veiculos_acidentes_transito_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1efc5f5829b716014827a2d0726c160e",
+          "bytes": 19417401,
+          "fields": 5,
+          "rows": 523342
+        }
+      },
+      "time": 7.56,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2025",
+        "path": "data/veiculos_acidentes_transito_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1e0833d4067347ed86e6b35ddaae78f2",
+          "bytes": 20437051,
+          "fields": 5,
+          "rows": 551161
+        }
+      },
+      "time": 8.006,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "veiculos_acidentes_transito_2026",
+        "path": "data/veiculos_acidentes_transito_2026.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_ocorrencia_associado",
+              "type": "string"
+            },
+            {
+              "name": "ano_fato",
+              "type": "integer"
+            },
+            {
+              "name": "mes_numerico_fato",
+              "type": "integer"
+            },
+            {
+              "name": "qtd_veiculo",
+              "type": "integer"
+            },
+            {
+              "name": "tipo_veiculo_descricao_longa",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "77d4d86eda5f0564576ef771c96093dc",
+          "bytes": 12033582,
+          "fields": 5,
+          "rows": 326815
+        }
+      },
+      "time": 4.729,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 15
+  },
+  "valid": true
+}
